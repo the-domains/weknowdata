@@ -1,0 +1,28 @@
+name: weknowdata
+favicon: null
+layout_spectrum: 0.35142207657918334
+typography_spectrum: 0.33862829441204667
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.7569150463677943
+  lightness: 0.15161421615630388
+  saturation: 0.6048466097563505
+  rhythmicContrast: 0.3409650505054742
+purpose: []
